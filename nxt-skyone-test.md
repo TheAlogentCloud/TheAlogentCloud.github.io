@@ -1,4 +1,5 @@
-## NXT Tether Login Test - SkyOne Test
+## NXT Tether Login Tester
+SkyOne Test  
 
 Current site target - [https://nxt-skyone-test.alogentcloud.com/app](https://nxt-skyone-test.alogentcloud.com/app)
 
@@ -11,8 +12,10 @@ Current site target - [https://nxt-skyone-test.alogentcloud.com/app](https://nxt
   <label for="password">Password</label>
   <input type="password" name="password" id="password" />
   <br/>
+  <!-- Removing extra Code.
   <label for="redirectParam">Redirect</label>
   <input type="text" name="redirectParam" id="redirectParam" placeholder="ex: /user/sso-select/open-account" />
+  -->
   <br/>
   <input type="submit" name="Submit" />
 </form>
